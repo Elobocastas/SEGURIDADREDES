@@ -6,7 +6,7 @@
 
 [![Universidad](https://img.shields.io/badge/Universidad-UAZ-gold?style=flat-square)](#)
 
-[![GitHub](https://github.com/Elobocastas/SEGURIDADREDES)](#)
+
 
 </div>
 
