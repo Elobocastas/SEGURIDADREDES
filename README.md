@@ -5,7 +5,7 @@
 **Notas de hacking y documentación de retos CTF resueltos durante el semestre.**
 
 [![Universidad](https://img.shields.io/badge/Universidad-UAZ-gold?style=flat-square)](#)
-[![PicoCTF](ELOBOCASTAS)
+[[PicoCTF](ELOBOCASTAS)
 [![GitHub](https://img.shields.io/badge/Repo-SEGURIDADREDES-blue?style=flat-square&logo=github)](#)
 
 </div>
