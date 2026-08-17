@@ -6,7 +6,7 @@
 
 [![Universidad](https://img.shields.io/badge/Universidad-UAZ-gold?style=flat-square)](#)
 
-[![GitHub](https://img.shields.io/badge/Repo-SEGURIDADREDES-blue?style=flat-square&logo=github)](#)
+[![GitHub](https://github.com/Elobocastas/SEGURIDADREDES)](#)
 
 </div>
 
@@ -18,7 +18,7 @@
 * **Matrícula:** 42104454
 * **Contacto:** [42104454@uaz.edu.mx]
 * Cylab: ELOBOCASTAS
-* Github: https://img.shields.io/badge/Repo-SEGURIDADREDES-blue?style=flat-square&logo=github
+* Github: https://github.com/Elobocastas/SEGURIDADREDES
 
 ---
 
