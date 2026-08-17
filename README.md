@@ -18,6 +18,7 @@
 * **Matrícula:** 42104454
 * **Contacto:** [42104454@uaz.edu.mx]
 * Cylab: ELOBOCASTAS
+* Github: https://img.shields.io/badge/Repo-SEGURIDADREDES-blue?style=flat-square&logo=github
 
 ---
 
